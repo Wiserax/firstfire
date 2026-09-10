@@ -1,7 +1,11 @@
 # Firstfire 2.0 — Expeditions
 
-[Play 2.0](https://wiserax.github.io/firstfire-expeditions/) · [Original edition](https://wiserax.github.io/alex-wiserax-firstfire/)
+[Play the main version](https://wiserax.github.io/firstfire-expeditions/) · [Original edition, preserved](https://wiserax.github.io/alex-wiserax-firstfire/)
 
-Twenty-round settlement defense with flexible tower/farm/barracks plots, selling, respawning infantry, optional world chests and distinct maps. Original models, audio and vector card art. Mobile touch controls; separate V2 progress and settings.
+Twenty-round settlement defense with flexible building sites, selling, respawning lane infantry, gold mines, optional world chests and distinct maps. Mobile touch controls; separate V2 progress and settings.
 
-`index.html` and `Firstfire.html` are the same self-contained game. Third-party library and font notices are retained in `licenses/` and the HTML.
+The formations update introduces enemies progressively: weak raiders first, a 70/30 raider-runner mix next, then shields, healers, saboteurs, ranged attackers, charging lancers, siege crews and wardens. Scout the next formation and invest in the defenses that counter it. Named construction shortcuts make lane barracks and gold mines available after the first round. Mines produce session amber; permanent training and the shop remain separate.
+
+`index.html` and `Firstfire.html` are the same self-contained game. Original models, audio and vector card art; third-party library and font notices are retained in `licenses/` and the HTML.
+
+Source implementation: `b26b31f` (gameplay-v2 branch). Original edition has not been modified.
