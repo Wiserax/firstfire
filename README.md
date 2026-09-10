@@ -8,7 +8,7 @@ The formations update introduces enemies progressively: weak raiders first, a 70
 
 `index.html` and `Firstfire.html` are the same self-contained game. Original models, audio and vector card art; third-party library and font notices are retained in `licenses/` and the HTML.
 
-Source implementation: `5a554e9ff06510e5cc676232fc956c6ca7bf3604` (gameplay-v2 branch). Original edition has not been modified.
+Source implementation: `bfd299172c0df6d67d27d2b28f3bdf87da47bd96` (gameplay-v2 branch). Original edition has not been modified.
 
 River rendering hotfix: water, banks and highlights have separate depth layers; highlights follow the curved channel.
 
