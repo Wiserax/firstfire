@@ -8,6 +8,8 @@ The formations update introduces enemies progressively: weak raiders first, a 70
 
 `index.html` and `Firstfire.html` are the same self-contained game. Original models, audio and vector card art; third-party library and font notices are retained in `licenses/` and the HTML.
 
-Source implementation: `106b2b6` (gameplay-v2 branch). Original edition has not been modified.
+Source implementation: `4c682d6` (gameplay-v2 branch). Original edition has not been modified.
 
 River rendering hotfix: water, banks and highlights have separate depth layers; highlights follow the curved channel.
+
+Balance and clarity update: compact boss HUD; independently firing siege crews with readable reload states; aiming and recoiling player weapons; six visual stages for each specialized tower (levels 3–8); paid outer plots with construction materials and persistent per-run land ownership. Early camp plots remain free. Mine returns and later upgrade costs now make expansion compete with immediate defense.
