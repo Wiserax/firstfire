@@ -1,6 +1,6 @@
-# Firstfire 2.0 — Expeditions
+# Firstfire
 
-[Play the main version](https://wiserax.github.io/firstfire-expeditions/) · [Original edition, preserved](https://wiserax.github.io/alex-wiserax-firstfire/)
+[Play the main version](https://wiserax.github.io/firstfire/) · [Original edition, preserved](https://wiserax.github.io/alex-wiserax-firstfire/)
 
 Twenty-round settlement defense with flexible building sites, selling, respawning lane infantry, gold mines, optional world chests and distinct maps. Mobile touch controls; separate V2 progress and settings.
 
