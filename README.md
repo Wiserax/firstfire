@@ -8,7 +8,7 @@ The formations update introduces enemies progressively: weak raiders first, a 70
 
 `index.html` and `Firstfire.html` are the same self-contained game. Original models, audio and vector card art; third-party library and font notices are retained in `licenses/` and the HTML.
 
-Source implementation: `d0d1a9e7ff18c21b2ac152a722f1370ad0d92c6c` (gameplay-v2 branch). Original edition has not been modified.
+Source implementation: `1c7bb91d1b442a0508c99db312c6b5a204b2788c` (gameplay-v2 branch). Original edition has not been modified.
 
 River rendering hotfix: water, banks and highlights have separate depth layers; highlights follow the curved channel.
 
@@ -21,3 +21,5 @@ Sound update 24: original adaptive music with three chapter arrangements, tactil
 Build 25 — Experiments: forge towers from ten elements and ten attack patterns, then mix a second element. Three seeded discoveries per upgrade, three rarity tiers and previews using the actual game models. Evolve barracks through three bloodlines, three roles and three mutations into 27 troop forms. Seven sky weapons offer temporary powers with visible combat charge. New attack and evolution sounds, bounded effects, and revised enemy/economy tuning accompany the update. Existing identity and progress are retained; old tower saves migrate to the forge system.
 
 Build 26 — Tower growth: separate architecture and structural growth through level 10 for every tower family, with continued ascension visuals beyond. Choose the component, then watch construction cover the plot and reveal the upgraded model. Magical towers carry glowing halos, bubbles, wisps or sparks; allied mutations wear the tribe’s blue-and-gold markings. Familiar elements unlock first, advanced elements later; barracks train human specialists before bloodlines at level 5. Sword, hammer and chain mace have stronger close-range combat and better reach. Existing saved builds are preserved.
+
+Build 27 — Uninterrupted construction: tower transformations happen at their plots while you keep riding and fighting. The camera follows the hero at its normal zoom, and controls remain available. Multiple towers can transform independently; pausing, selling and further upgrades remain safe.
