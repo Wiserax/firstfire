@@ -2,13 +2,13 @@
 
 [Play the main version](https://wiserax.github.io/firstfire/) · [Original edition, preserved](https://wiserax.github.io/alex-wiserax-firstfire/)
 
-Twenty-round settlement defense with flexible building sites, selling, respawning lane infantry, gold mines, optional world chests and distinct maps. Mobile touch controls; separate V2 progress and settings.
+Fifteen-round settlement defense with flexible building sites, selling, respawning lane infantry, gold mines, optional world chests and distinct maps. Mobile touch controls; separate V2 progress and settings.
 
 The formations update introduces enemies progressively: weak raiders first, a 70/30 raider-runner mix next, then shields, healers, saboteurs, ranged attackers, charging lancers, siege crews and wardens. Scout the next formation and invest in the defenses that counter it. Named construction shortcuts make lane barracks and gold mines available after the first round. Mines produce session amber; permanent training and the shop remain separate.
 
 `index.html` and `Firstfire.html` are the same self-contained game. Original models, audio and vector card art; third-party library and font notices are retained in `licenses/` and the HTML.
 
-Source implementation: `1c7bb91d1b442a0508c99db312c6b5a204b2788c` (gameplay-v2 branch). Original edition has not been modified.
+Source implementation: `14a6055ef3acc97491c24862bd0ebcd497f2de80` (gameplay-v2 branch). Original edition has not been modified.
 
 River rendering hotfix: water, banks and highlights have separate depth layers; highlights follow the curved channel.
 
@@ -23,3 +23,5 @@ Build 25 — Experiments: forge towers from ten elements and ten attack patterns
 Build 26 — Tower growth: separate architecture and structural growth through level 10 for every tower family, with continued ascension visuals beyond. Choose the component, then watch construction cover the plot and reveal the upgraded model. Magical towers carry glowing halos, bubbles, wisps or sparks; allied mutations wear the tribe’s blue-and-gold markings. Familiar elements unlock first, advanced elements later; barracks train human specialists before bloodlines at level 5. Sword, hammer and chain mace have stronger close-range combat and better reach. Existing saved builds are preserved.
 
 Build 27 — Uninterrupted construction: tower transformations happen at their plots while you keep riding and fighting. The camera follows the hero at its normal zoom, and controls remain available. Multiple towers can transform independently; pausing, selling and further upgrades remain safe.
+
+Build 28 — Shorter expeditions: new runs have 15 rounds, with bosses at 5, 10 and 15, earlier siege and wardens, five-second preparation, four optional chest drops and seven sky-weapon gifts. Tested successful strategies typically finish in 8–10 minutes of battle time. Existing unfinished 20-round runs retain their schedule. Classic and 15-round rankings are separate; identity, permanent upgrades and chapter unlocks are retained.
